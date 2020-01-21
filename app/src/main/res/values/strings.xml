@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UTS_Sari_Rahma_Maulida</string>
+    <string-array name="Agama">
+        <item>Islam</item>
+        <item>Kristen</item>
+        <item>Hindu</item>
+        <item>Budha</item>
+    </string-array>
+
+</resources>
